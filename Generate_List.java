@@ -5,6 +5,7 @@ import java.util.stream.IntStream;
 
 public class Generate_List {
     public List<Integer> generateValues(){
+
         List<Integer> unsorted;
         //Settings
         Integer length = 10;

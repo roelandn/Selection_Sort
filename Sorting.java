@@ -3,6 +3,7 @@ import java.util.List;
 
 public class Sorting {
     public List<Integer> sort(List<Integer> unsorted) {
+
         List<Integer> sorted = new ArrayList<>();
         int currentValue, lowestValue, lowestLocation;
         boolean lower;
